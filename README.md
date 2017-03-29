@@ -1,6 +1,6 @@
 # (Repository) Index
 
-Lots of project names where the title might always be useful. Here is a list of my work (worth mentioning) with a brief description :)
+Lots of project names where the title might not always be useful. Here is a list of my work (worth mentioning) with a brief description :)
 
 
 ## Go
