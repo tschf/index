@@ -9,6 +9,6 @@ Lots of project names where the title might always be useful. Here is a list of 
 
 ## PL/SQL
 
-* pafs - API for Stripe; proof of concept to get it working with PL/SQL. Didn't do much beyond issuing a charge.
-* pldu (du) - dev util; Useful functions when developing a data model. Currently only has a drop_table function which removes table/sequence if it exists.
-* plgapi - API for working with Google APIs. Has some Drive, and Calendar implementations - can be extended with the framework easily enough
+* [pafs](https://github.com/tschf/pafs) - API for Stripe; proof of concept to get it working with PL/SQL. Didn't do much beyond issuing a charge.
+* [pldu](https://github.com/tschf/pldu) (du) - dev util; Useful functions when developing a data model. Currently only has a drop_table function which removes table/sequence if it exists.
+* [plgapi](https://github.com/tschf/pl-gapi) - API for working with Google APIs. Has some Drive, and Calendar implementations - can be extended with the framework easily enough
