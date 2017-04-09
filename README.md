@@ -2,6 +2,9 @@
 
 Lots of project names where the title might not always be useful. Here is a list of my work (worth mentioning) with a brief description :)
 
+## Bash
+
+* [sqlup](https://github.com/tschf/odl) - Upgrader for SQLcl. Depends on `odl`.
 
 ## Go
 
